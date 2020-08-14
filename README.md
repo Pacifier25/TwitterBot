@@ -1,2 +1,3 @@
 TWITTER BOT
+
 A Twitter bot is a type of bot software that controls a Twitter account via the Twitter API.[1] The bot software may autonomously perform actions such as tweeting, re-tweeting, liking, following, unfollowing, or direct messaging other accounts. The automation of Twitter accounts is governed by a set of automation rules that outline proper and improper uses of automation.[2] Proper usage includes broadcasting helpful information, automatically generating interesting or creative content, and automatically replying to users via direct message.[3][4][5] Improper usage includes circumventing API rate limits, violating user privacy, spamming,[6] and sockpuppeting.
